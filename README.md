@@ -2,6 +2,7 @@
 
 Este módulo permite obtener y mostrar de manera elegante y moderna los detalles de los procesos de compra gestionados a través del Sistema Electrónico de Contrataciones Públicas (SECP).
 
+![alt](assets/preview.jpg)
 ## Características
 El módulo cuenta con las siguientes características:
 
